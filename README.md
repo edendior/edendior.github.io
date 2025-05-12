@@ -1,4 +1,4 @@
-#HTML, CSS & JAVASCRIPT PROJECTS
+ # HTML, CSS & JAVASCRIPT PROJECTS
  INTRODUCTION:
  This repository is where I will store all of my HTML CSS projects
  
