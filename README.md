@@ -4,14 +4,14 @@
  
  Technology used: HTML, CSS, Javascript
  
- Projects:
+# Projects:
 - [Portfolio Website](https://edendior.github.io/)
 - [Movie Theater Website](https://github.com/edendior/HTML-AND-CSS-PROJECTS/tree/github-assignment/academy-cinemas)
 - [Pizza Menu](https://github.com/edendior/JAVASCRIPT-PROJECTS/tree/main/Pizza_Project)
 - [Tic Tac Toe Game](https://github.com/edendior/JAVASCRIPT-PROJECTS/tree/main/TicTacToe)
 - [Calculator](https://github.com/edendior/JAVASCRIPT-PROJECTS/tree/main/Calculator)
 
-Description:
+# Descriptions:
 
 Portfolio Wesbite: 
 A dymanic website I've built as my developer portfolio. 
