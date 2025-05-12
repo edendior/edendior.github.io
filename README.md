@@ -1,21 +1,23 @@
-# HTML, CSS & JAVASCRIPT PROJECTS
+#HTML, CSS & JAVASCRIPT PROJECTS
  INTRODUCTION:
  This repository is where I will store all of my HTML CSS projects
  
- #Technology used: HTML, CSS, Javascript
+ Technology used: HTML, CSS, Javascript
  
- #Projects:
+ Projects:
 - [Portfolio Website](https://edendior.github.io/)
 - [Movie Theater Website](https://github.com/edendior/HTML-AND-CSS-PROJECTS/tree/github-assignment/academy-cinemas)
 - [Pizza Menu](https://github.com/edendior/JAVASCRIPT-PROJECTS/tree/main/Pizza_Project)
 - [Tic Tac Toe Game](https://github.com/edendior/JAVASCRIPT-PROJECTS/tree/main/TicTacToe)
 - [Calculator](https://github.com/edendior/JAVASCRIPT-PROJECTS/tree/main/Calculator)
 
-#Description:
+Description:
+
 Portfolio Wesbite: 
 A dymanic website I've built as my developer portfolio. 
 
 Movie Theater Website: 
+
 A site that shows various movies, showtimes and a ticket purchasing function.
 
 Pizza Menu:
