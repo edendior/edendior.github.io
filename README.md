@@ -14,6 +14,7 @@
 # Descriptions:
 
 Portfolio Wesbite: 
+
 A dymanic website I've built as my developer portfolio. 
 
 Movie Theater Website: 
@@ -21,9 +22,11 @@ Movie Theater Website:
 A site that shows various movies, showtimes and a ticket purchasing function.
 
 Pizza Menu:
+
 A menu where you can select the pizza size as well as a variety of toppings and total price will be calculated. 
 
 Tic Tac Toe Game: 
+
 A cat themed Tic Tac Toe game called Kit Cat Meow that uses funny pictures of cats as the X and O. On theme cute and silly sound effects have been utilized as well. 
 
 Calculator:
