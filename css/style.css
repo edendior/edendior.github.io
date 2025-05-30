@@ -1,6 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
-
-@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Funnel+Sans:ital,wght@0,300..800;1,300..800&family=Press+Start+2P&display=swap');
 /***** GENERAL STYLING *****/
 /* Body */
 body {
@@ -10,7 +8,9 @@ body {
 /* Heading 1 elements */
 h1 {
     text-transform: uppercase; /* Capitalizing all h1 headings */
-    font-family: "Raleway", sans-serif;
+    font-family: "Press Start 2P", system-ui;
+    font-weight: 400;
+    font-style: normal;
     text-align: center; /* Centering all h1 elements */
     margin-top: 2%; /* Adds a small margin above h1 elements */
     color: #df00b2;
@@ -32,13 +32,15 @@ h1:hover {
     font-size: 58px;
     padding-top: 5%;
     padding-bottom: 5%; /* This adds padding to the top and bottom of the portfolio title text */
-    font-family: "Raleway", sans-serif;
+    font-family: "Press Start 2P", system-ui;
 
 }
 
 /* Paragraph elements */
 p {
-    font-family: "Noto Sans", sans-serif;
+    font-family: "Funnel Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
     text-align: justify; /* Justify text within paragraph elements */
     letter-spacing: 1px; /* This expands the text slightly */
     font-size: 20px;
@@ -138,7 +140,9 @@ q {
     bottom: 0; /* This property sets the text at the bottom of the image */
     width: 100%; /* The element covers the full width of the image */
     text-align: center; /* The text is center aligned within the image */
-    font-family: "Noto Sans", sans-serif; /* This specifies the font family for the text */
+    font-family: "Funnel Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;/* This specifies the font family for the text */
     letter-spacing: .1vw; /* This gives slight spacing between the letters */
     font-size: 1.5vw; /* Font size is relative to the size of the viewport width */
     background-color: rgba(0, 0, 0, 0.75); /* Gives a slightly transparent black background */
@@ -242,7 +246,9 @@ footer {
     padding: 14px 18px; /* This adds padding around our text */
     text-decoration: none; /* This gets rid of the underlines under the text on our navbar */
     text-shadow: black 0px 0px .5px; /* This adds a shadow to the text on our navbar */
-    font-family: "Noto Sans", sans-serif; /* This specifies the font family for text on our navbar */
+    font-family: "Funnel Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal; /* This specifies the font family for text on our navbar */
     font-size: 20px; /* This specifies the font size for text on our navbar */
     text-align: center; /* This centers the text within its container */
     position: relative; /* This sets the text relative to its normal positioning, allowing us to use the animation below */
@@ -366,7 +372,9 @@ footer {
     max-width: 49vw; /* Relative sizing of the form container - 49% of the viewport width */
     padding: 1vw; /* Adds padding between the form-popup and the form-container */
     background-color: white; 
-    font-family: "Noto Sans", sans-serif;;
+    font-family: "Funnel Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
 }
 
 /* Input fields */
@@ -377,12 +385,16 @@ footer {
     border: none; /* Removes the border from the input boxes */
     background: Gainsboro; /* Sets the background color of the input boxes */
     font-size: 1vw; /* Relative font sizing based on the width of the viewport */
-    font-family: "Noto Sans", sans-serif;
+    font-family: "Funnel Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
 }
 
 /* General styling for all buttons */
 button {
-    font-family: "Noto Sans", sans-serif;
+    font-family: "Funnel Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
     letter-spacing: .3vw; /* Adds slight spacing between the letters */
     font-size: 1.5vw; /* Relative sizing of text */
     font-weight: bold; 
