@@ -5,7 +5,7 @@
  Technology used: HTML, CSS, Javascript
  
 # Projects:
-- [Portfolio Website][(https://edendior.github.io/Portfolio-2/#Home)]
+- [Portfolio Website](https://edendior.github.io/Portfolio-2/#Home)
 - [Movie Theater Website](https://github.com/edendior/HTML-AND-CSS-PROJECTS/tree/github-assignment/academy-cinemas)
 - [Pizza Menu](https://github.com/edendior/JAVASCRIPT-PROJECTS/tree/main/Pizza_Project)
 - [Tic Tac Toe Game](https://github.com/edendior/JAVASCRIPT-PROJECTS/tree/main/TicTacToe)
